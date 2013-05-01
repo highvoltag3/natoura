@@ -87,7 +87,7 @@
             	<div id="social">
             		<a href="mailto:&#105;&#110;&#102;&#111;&#064;&#110;&#097;&#116;&#111;&#117;&#114;&#097;&#046;&#099;&#111;&#109;"><img src="<?php bloginfo('template_directory'); ?>/images/icono_arroba.png" alt="icono_arroba" width="34" height="34" /></a>
 					<a href="<?php bloginfo('rss2_url'); ?>"><img src="<?php bloginfo('template_directory'); ?>/images/icono_rss.png" alt="icono_rss" width="34" height="34" /></a>
-					<a href="https://www.facebook.com/pages/Natoura-Travel-Adventure-Tours/144636898987747"><img src="<?php bloginfo('template_directory'); ?>/images/icono_facebook.png" alt="icono_facebook" width="34" height="34" /></a>
+					<a href="http://es-la.facebook.com/pages/Natoura-Agencia-de-Viajes/497241946992562"><img src="<?php bloginfo('template_directory'); ?>/images/icono_facebook.png" alt="icono_facebook" width="34" height="34" /></a>
             	</div>
             	<div id="contact">
             		<a href="<?php contactURL(); ?>">

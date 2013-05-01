@@ -29,7 +29,7 @@ $(document).ready(function(){
 	  });
 	  
     //Forms
-    $("textarea, select, input:checkbox, input:radio, input:file, input").uniform();
+    $("textarea, input:checkbox, input:radio, input:file, input").uniform();
     
     
     //Detalles...

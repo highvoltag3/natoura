@@ -393,6 +393,10 @@ div.button span {
   padding-right: 15px;
 }
 
+div.button input.button {
+  visibility: hidden;
+}
+
 /* Select */
 div.selector {
   width: 190px;
