@@ -1,0 +1,785 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: NatouraV2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-03-16 21:41-0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Dario Novoa <darionovoa@ideartte.com>\n"
+"Language-Team: Dario Novoa V. <darionovoa@ideartte.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Spanish\n"
+"X-Poedit-Country: Venezuela\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPath-1: .\n"
+
+#: ../01292011/NatouraV3/404.php:14
+msgid "Error 404 - Not Found"
+msgstr "Error 404 - Not Found"
+
+#: ../01292011/NatouraV3/category-antes-del-viaje.php:16
+#: ../01292011/NatouraV3/category-conseils-aux-voyageurs.php:16
+#: ../01292011/NatouraV3/category-consejos.php:16
+#: ../01292011/NatouraV3/category-en-el-pais.php:16
+#: ../01292011/NatouraV3/category-faq.php:16
+#: ../01292011/NatouraV3/category-informacion_sobre_natoura.php:16
+#: ../01292011/NatouraV3/category-links.php:16
+#: ../01292011/NatouraV3/category-medios_informativos.php:16
+#: ../01292011/NatouraV3/category-noticias.php:16
+#: ../01292011/NatouraV3/category-operadores_agencias.php:16
+msgid "Follow RSS feed"
+msgstr "Follow RSS feed"
+
+#: ../01292011/NatouraV3/category-antes-del-viaje.php:42
+#: ../01292011/NatouraV3/category-conseils-aux-voyageurs.php:69
+#: ../01292011/NatouraV3/category-consejos.php:42
+#: ../01292011/NatouraV3/category-en-el-pais.php:42
+#: ../01292011/NatouraV3/category-faq.php:42
+#: ../01292011/NatouraV3/category-informacion_sobre_natoura.php:42
+#: ../01292011/NatouraV3/category-landschaften.php:41
+#: ../01292011/NatouraV3/category-links.php:42
+#: ../01292011/NatouraV3/category-medios_informativos.php:42
+#: ../01292011/NatouraV3/category-national-parks.php:41
+#: ../01292011/NatouraV3/category-nationalparks.php:41
+#: ../01292011/NatouraV3/category-noticias.php:42
+#: ../01292011/NatouraV3/category-operadores_agencias.php:42
+#: ../01292011/NatouraV3/category-parcs-nationaux.php:41
+#: ../01292011/NatouraV3/category-parques-nacionales.php:41
+msgid "Read the rest of this entry &raquo;"
+msgstr "Read the rest of this entry &raquo;"
+
+#: ../01292011/NatouraV3/category-antes-del-viaje.php:44
+#: ../01292011/NatouraV3/category-conseils-aux-voyageurs.php:71
+#: ../01292011/NatouraV3/category-consejos.php:44
+#: ../01292011/NatouraV3/category-en-el-pais.php:44
+#: ../01292011/NatouraV3/category-faq.php:44
+#: ../01292011/NatouraV3/category-informacion_sobre_natoura.php:44
+#: ../01292011/NatouraV3/category-landschaften.php:43
+#: ../01292011/NatouraV3/category-links.php:44
+#: ../01292011/NatouraV3/category-medios_informativos.php:44
+#: ../01292011/NatouraV3/category-national-parks.php:43
+#: ../01292011/NatouraV3/category-nationalparks.php:43
+#: ../01292011/NatouraV3/category-noticias.php:44
+#: ../01292011/NatouraV3/category-operadores_agencias.php:44
+#: ../01292011/NatouraV3/category-parcs-nationaux.php:43
+#: ../01292011/NatouraV3/category-parques-nacionales.php:43
+msgid "Pages"
+msgstr "Pages"
+
+#: ../01292011/NatouraV3/category-antes-del-viaje.php:45
+#: ../01292011/NatouraV3/category-conseils-aux-voyageurs.php:72
+#: ../01292011/NatouraV3/category-consejos.php:45
+#: ../01292011/NatouraV3/category-en-el-pais.php:45
+#: ../01292011/NatouraV3/category-faq.php:45
+#: ../01292011/NatouraV3/category-informacion_sobre_natoura.php:45
+#: ../01292011/NatouraV3/category-landschaften.php:44
+#: ../01292011/NatouraV3/category-links.php:45
+#: ../01292011/NatouraV3/category-medios_informativos.php:45
+#: ../01292011/NatouraV3/category-national-parks.php:44
+#: ../01292011/NatouraV3/category-nationalparks.php:44
+#: ../01292011/NatouraV3/category-noticias.php:45
+#: ../01292011/NatouraV3/category-operadores_agencias.php:45
+#: ../01292011/NatouraV3/category-parcs-nationaux.php:44
+#: ../01292011/NatouraV3/category-parques-nacionales.php:44
+msgid "Tags"
+msgstr "Tags"
+
+#: ../01292011/NatouraV3/category-antes-del-viaje.php:49
+#: ../01292011/NatouraV3/category-conseils-aux-voyageurs.php:76
+#: ../01292011/NatouraV3/category-consejos.php:49
+#: ../01292011/NatouraV3/category-en-el-pais.php:49
+#: ../01292011/NatouraV3/category-faq.php:49
+#: ../01292011/NatouraV3/category-informacion_sobre_natoura.php:49
+#: ../01292011/NatouraV3/category-links.php:49
+#: ../01292011/NatouraV3/category-medios_informativos.php:49
+#: ../01292011/NatouraV3/category-noticias.php:49
+#: ../01292011/NatouraV3/category-operadores_agencias.php:49
+msgid "This entry was posted"
+msgstr "This entry was posted"
+
+#: ../01292011/NatouraV3/category-antes-del-viaje.php:54
+#: ../01292011/NatouraV3/category-conseils-aux-voyageurs.php:81
+#: ../01292011/NatouraV3/category-consejos.php:54
+#: ../01292011/NatouraV3/category-en-el-pais.php:54
+#: ../01292011/NatouraV3/category-faq.php:54
+#: ../01292011/NatouraV3/category-informacion_sobre_natoura.php:54
+#: ../01292011/NatouraV3/category-links.php:54
+#: ../01292011/NatouraV3/category-medios_informativos.php:54
+#: ../01292011/NatouraV3/category-noticias.php:54
+#: ../01292011/NatouraV3/category-operadores_agencias.php:54
+msgid "on"
+msgstr "on"
+
+#: ../01292011/NatouraV3/category-antes-del-viaje.php:54
+#: ../01292011/NatouraV3/category-conseils-aux-voyageurs.php:81
+#: ../01292011/NatouraV3/category-consejos.php:54
+#: ../01292011/NatouraV3/category-en-el-pais.php:54
+#: ../01292011/NatouraV3/category-faq.php:54
+#: ../01292011/NatouraV3/category-informacion_sobre_natoura.php:54
+#: ../01292011/NatouraV3/category-links.php:54
+#: ../01292011/NatouraV3/category-medios_informativos.php:54
+#: ../01292011/NatouraV3/category-noticias.php:54
+#: ../01292011/NatouraV3/category-operadores_agencias.php:54
+msgid "at"
+msgstr "at"
+
+#: ../01292011/NatouraV3/category-antes-del-viaje.php:55
+#: ../01292011/NatouraV3/category-conseils-aux-voyageurs.php:82
+#: ../01292011/NatouraV3/category-consejos.php:55
+#: ../01292011/NatouraV3/category-en-el-pais.php:55
+#: ../01292011/NatouraV3/category-faq.php:55
+#: ../01292011/NatouraV3/category-informacion_sobre_natoura.php:55
+#: ../01292011/NatouraV3/category-links.php:55
+#: ../01292011/NatouraV3/category-medios_informativos.php:55
+#: ../01292011/NatouraV3/category-noticias.php:55
+#: ../01292011/NatouraV3/category-operadores_agencias.php:55
+msgid "and is filed under"
+msgstr "and is filed under"
+
+#: ../01292011/NatouraV3/category-antes-del-viaje.php:56
+#: ../01292011/NatouraV3/category-conseils-aux-voyageurs.php:83
+#: ../01292011/NatouraV3/category-consejos.php:56
+#: ../01292011/NatouraV3/category-en-el-pais.php:56
+#: ../01292011/NatouraV3/category-faq.php:56
+#: ../01292011/NatouraV3/category-informacion_sobre_natoura.php:56
+#: ../01292011/NatouraV3/category-links.php:56
+#: ../01292011/NatouraV3/category-medios_informativos.php:56
+#: ../01292011/NatouraV3/category-noticias.php:56
+#: ../01292011/NatouraV3/category-operadores_agencias.php:56
+msgid "You can follow any responses to this entry through the"
+msgstr "You can follow any responses to this entry through the"
+
+#: ../01292011/NatouraV3/category-antes-del-viaje.php:56
+#: ../01292011/NatouraV3/category-conseils-aux-voyageurs.php:83
+#: ../01292011/NatouraV3/category-consejos.php:56
+#: ../01292011/NatouraV3/category-en-el-pais.php:56
+#: ../01292011/NatouraV3/category-faq.php:56
+#: ../01292011/NatouraV3/category-informacion_sobre_natoura.php:56
+#: ../01292011/NatouraV3/category-links.php:56
+#: ../01292011/NatouraV3/category-medios_informativos.php:56
+#: ../01292011/NatouraV3/category-noticias.php:56
+#: ../01292011/NatouraV3/category-operadores_agencias.php:56
+msgid "feed"
+msgstr "feed"
+
+#: ../01292011/NatouraV3/category-antes-del-viaje.php:60
+#: ../01292011/NatouraV3/category-conseils-aux-voyageurs.php:87
+#: ../01292011/NatouraV3/category-consejos.php:60
+#: ../01292011/NatouraV3/category-en-el-pais.php:60
+#: ../01292011/NatouraV3/category-faq.php:60
+#: ../01292011/NatouraV3/category-informacion_sobre_natoura.php:60
+#: ../01292011/NatouraV3/category-links.php:60
+#: ../01292011/NatouraV3/category-medios_informativos.php:60
+#: ../01292011/NatouraV3/category-noticias.php:60
+#: ../01292011/NatouraV3/category-operadores_agencias.php:60
+msgid "You can <a href=\"#respond\">leave a response</a>, or"
+msgstr "You can <a href=\"#respond\">leave a response</a>, or"
+
+#: ../01292011/NatouraV3/category-antes-del-viaje.php:60
+#: ../01292011/NatouraV3/category-conseils-aux-voyageurs.php:87
+#: ../01292011/NatouraV3/category-consejos.php:60
+#: ../01292011/NatouraV3/category-en-el-pais.php:60
+#: ../01292011/NatouraV3/category-faq.php:60
+#: ../01292011/NatouraV3/category-informacion_sobre_natoura.php:60
+#: ../01292011/NatouraV3/category-links.php:60
+#: ../01292011/NatouraV3/category-medios_informativos.php:60
+#: ../01292011/NatouraV3/category-noticias.php:60
+#: ../01292011/NatouraV3/category-operadores_agencias.php:60
+msgid "trackback</a> from your own site."
+msgstr "trackback</a> from your own site."
+
+#: ../01292011/NatouraV3/category-antes-del-viaje.php:64
+#: ../01292011/NatouraV3/category-conseils-aux-voyageurs.php:91
+#: ../01292011/NatouraV3/category-consejos.php:64
+#: ../01292011/NatouraV3/category-en-el-pais.php:64
+#: ../01292011/NatouraV3/category-faq.php:64
+#: ../01292011/NatouraV3/category-informacion_sobre_natoura.php:64
+#: ../01292011/NatouraV3/category-links.php:64
+#: ../01292011/NatouraV3/category-medios_informativos.php:64
+#: ../01292011/NatouraV3/category-noticias.php:64
+#: ../01292011/NatouraV3/category-operadores_agencias.php:64
+msgid "Responses are currently closed, but you can"
+msgstr "Responses are currently closed, but you can"
+
+#: ../01292011/NatouraV3/category-antes-del-viaje.php:64
+#: ../01292011/NatouraV3/category-conseils-aux-voyageurs.php:91
+#: ../01292011/NatouraV3/category-consejos.php:64
+#: ../01292011/NatouraV3/category-en-el-pais.php:64
+#: ../01292011/NatouraV3/category-faq.php:64
+#: ../01292011/NatouraV3/category-informacion_sobre_natoura.php:64
+#: ../01292011/NatouraV3/category-links.php:64
+#: ../01292011/NatouraV3/category-medios_informativos.php:64
+#: ../01292011/NatouraV3/category-noticias.php:64
+#: ../01292011/NatouraV3/category-operadores_agencias.php:64
+msgid "trackback</a> from your own site"
+msgstr "trackback</a> from your own site."
+
+#: ../01292011/NatouraV3/category-antes-del-viaje.php:68
+#: ../01292011/NatouraV3/category-conseils-aux-voyageurs.php:95
+#: ../01292011/NatouraV3/category-consejos.php:68
+#: ../01292011/NatouraV3/category-en-el-pais.php:68
+#: ../01292011/NatouraV3/category-faq.php:68
+#: ../01292011/NatouraV3/category-informacion_sobre_natoura.php:68
+#: ../01292011/NatouraV3/category-links.php:68
+#: ../01292011/NatouraV3/category-medios_informativos.php:68
+#: ../01292011/NatouraV3/category-noticias.php:68
+#: ../01292011/NatouraV3/category-operadores_agencias.php:68
+msgid "You can skip to the end and leave a response. Pinging is currently not allowed"
+msgstr "You can skip to the end and leave a response. Pinging is currently not allowed."
+
+#: ../01292011/NatouraV3/category-antes-del-viaje.php:72
+#: ../01292011/NatouraV3/category-conseils-aux-voyageurs.php:99
+#: ../01292011/NatouraV3/category-consejos.php:72
+#: ../01292011/NatouraV3/category-en-el-pais.php:72
+#: ../01292011/NatouraV3/category-faq.php:72
+#: ../01292011/NatouraV3/category-informacion_sobre_natoura.php:72
+#: ../01292011/NatouraV3/category-links.php:72
+#: ../01292011/NatouraV3/category-medios_informativos.php:72
+#: ../01292011/NatouraV3/category-noticias.php:72
+#: ../01292011/NatouraV3/category-operadores_agencias.php:72
+msgid "Both comments and pings are currently closed"
+msgstr "Both comments and pings are currently closed"
+
+#: ../01292011/NatouraV3/category-antes-del-viaje.php:74
+#: ../01292011/NatouraV3/category-conseils-aux-voyageurs.php:101
+#: ../01292011/NatouraV3/category-consejos.php:74
+#: ../01292011/NatouraV3/category-en-el-pais.php:74
+#: ../01292011/NatouraV3/category-faq.php:74
+#: ../01292011/NatouraV3/category-informacion_sobre_natoura.php:74
+#: ../01292011/NatouraV3/category-links.php:74
+#: ../01292011/NatouraV3/category-medios_informativos.php:74
+#: ../01292011/NatouraV3/category-noticias.php:74
+#: ../01292011/NatouraV3/category-operadores_agencias.php:74
+msgid "Edit this entry"
+msgstr "Edit this entry"
+
+#: ../01292011/NatouraV3/category-antes-del-viaje.php:86
+#: ../01292011/NatouraV3/category-conseils-aux-voyageurs.php:113
+#: ../01292011/NatouraV3/category-consejos.php:86
+#: ../01292011/NatouraV3/category-en-el-pais.php:86
+#: ../01292011/NatouraV3/category-faq.php:86
+#: ../01292011/NatouraV3/category-informacion_sobre_natoura.php:86
+#: ../01292011/NatouraV3/category-landschaften.php:53
+#: ../01292011/NatouraV3/category-links.php:86
+#: ../01292011/NatouraV3/category-medios_informativos.php:86
+#: ../01292011/NatouraV3/category-national-parks.php:53
+#: ../01292011/NatouraV3/category-nationalparks.php:53
+#: ../01292011/NatouraV3/category-noticias.php:86
+#: ../01292011/NatouraV3/category-operadores_agencias.php:86
+#: ../01292011/NatouraV3/category-parcs-nationaux.php:53
+#: ../01292011/NatouraV3/category-parques-nacionales.php:53
+msgid "<p>Sorry, no posts matched your criteria.</p>"
+msgstr "<p>Sorry, no posts matched your criteria.</p>"
+
+#: ../01292011/NatouraV3/comments-popup.php:30
+msgid "Comments"
+msgstr "Comments"
+
+#: ../01292011/NatouraV3/comments-popup.php:32
+msgid "feed for comments on this post"
+msgstr "feed for comments on this post"
+
+#: ../01292011/NatouraV3/comments-popup.php:35
+msgid "The <abbr title=\"Universal Resource Locator\">URL</abbr> to TrackBack this entry is:"
+msgstr "The <abbr title=\"Universal Resource Locator\">URL</abbr> to TrackBack this entry is:"
+
+#: ../01292011/NatouraV3/comments-popup.php:53
+msgid "Comment"
+msgstr "Comment"
+
+#: ../01292011/NatouraV3/comments-popup.php:53
+msgid "Trackback"
+msgstr "Trackback"
+
+#: ../01292011/NatouraV3/comments-popup.php:53
+msgid "Pingback"
+msgstr "Pingback"
+
+#: ../01292011/NatouraV3/comments-popup.php:59
+msgid "No comments yet"
+msgstr "No comments yet"
+
+#: ../01292011/NatouraV3/comments-popup.php:63
+msgid "Leave a comment"
+msgstr "Leave a comment"
+
+#: ../01292011/NatouraV3/comments-popup.php:64
+msgid "Line and paragraph breaks automatic, e-mail address never displayed, <acronym title=\"Hypertext Markup Language\">HTML</acronym> allowed:"
+msgstr "Line and paragraph break automatically, e-mail address never displays, <acronym title=\"Hypertext Markup Language\">HTML</acronym> allowed:"
+
+#: ../01292011/NatouraV3/comments-popup.php:68
+#: ../01292011/NatouraV3/comments.php:77
+msgid "Logged in as"
+msgstr "Logged in as"
+
+#: ../01292011/NatouraV3/comments-popup.php:68
+msgid "Log out of this account"
+msgstr "Log out of this account"
+
+#: ../01292011/NatouraV3/comments-popup.php:68
+#: ../01292011/NatouraV3/comments.php:77
+msgid "Log out"
+msgstr "Log out"
+
+#: ../01292011/NatouraV3/comments-popup.php:72
+#: ../01292011/NatouraV3/comments.php:83
+msgid "Name"
+msgstr "Name"
+
+#: ../01292011/NatouraV3/comments-popup.php:77
+msgid "E-mail"
+msgstr "E-mail"
+
+#: ../01292011/NatouraV3/comments-popup.php:82
+msgid "<abbr title=\"Universal Resource Locator\">URL"
+msgstr "<abbr title=\"Universal Resource Locator\">URL"
+
+#: ../01292011/NatouraV3/comments-popup.php:87
+msgid "Your Comment"
+msgstr "Your Comment"
+
+#: ../01292011/NatouraV3/comments-popup.php:100
+msgid "Sorry, the comment form is closed at this time"
+msgstr "Sorry, the comment form is closed at this time"
+
+#: ../01292011/NatouraV3/comments-popup.php:105
+msgid "Close this window"
+msgstr "Close this window"
+
+#: ../01292011/NatouraV3/comments-popup.php:111
+msgid "Sorry, no posts matched your criteria"
+msgstr "Sorry, no posts matched your criteria"
+
+#: ../01292011/NatouraV3/comments.php:10
+msgid "Please do not load this page directly. Thanks!"
+msgstr "Please do not load this page directly. Thanks!"
+
+#: ../01292011/NatouraV3/comments.php:13
+msgid "This post is password protected. Enter the password to view comments"
+msgstr "This post is password protected. Enter the password to view comments."
+
+#: ../01292011/NatouraV3/comments.php:24
+msgid "No Responses"
+msgstr "No Responses"
+
+#: ../01292011/NatouraV3/comments.php:24
+msgid "One Response"
+msgstr "One Response"
+
+#: ../01292011/NatouraV3/comments.php:24
+msgid "% Responses"
+msgstr "% Responses"
+
+#: ../01292011/NatouraV3/comments.php:48
+msgid "Comments are closed"
+msgstr "Comments are closed"
+
+#: ../01292011/NatouraV3/comments.php:59
+msgid "Leave a Reply"
+msgstr "Leave a Reply"
+
+#: ../01292011/NatouraV3/comments.php:59
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "Leave a Reply to %s"
+
+#: ../01292011/NatouraV3/comments.php:68
+msgid "You must be"
+msgstr "You must be"
+
+#: ../01292011/NatouraV3/comments.php:68
+msgid "logged in</a> to post a comment"
+msgstr "logged in</a> to post a comment"
+
+#: ../01292011/NatouraV3/comments.php:83
+#: ../01292011/NatouraV3/comments.php:86
+msgid "required"
+msgstr "required"
+
+#: ../01292011/NatouraV3/comments.php:86
+msgid "Mail (will not be published)"
+msgstr "Mail (will not be published)"
+
+#: ../01292011/NatouraV3/comments.php:89
+msgid "Website"
+msgstr "Website"
+
+#: ../01292011/NatouraV3/comments.php:97
+msgid "Submit Comment"
+msgstr "Submit Comment"
+
+#: ../01292011/NatouraV3/functions.php:125
+#, php-format
+msgid "<cite class=\"fn\">%s</cite> <span class=\"says\">says:</span>"
+msgstr "<cite class=\"fn\">%s</cite> <span class=\"says\">says:</span>"
+
+#: ../01292011/NatouraV3/functions.php:128
+msgid "Your comment is awaiting moderation."
+msgstr "Your comment is awaiting moderation."
+
+#: ../01292011/NatouraV3/functions.php:132
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s at %2$s"
+
+#: ../01292011/NatouraV3/functions.php:132
+msgid "(Edit)"
+msgstr "(Edit)"
+
+#: ../01292011/NatouraV3/functions.php:147
+#: ../01292011/NatouraV3/header.php:66
+msgid "Inicio"
+msgstr "Home"
+
+#: ../01292011/NatouraV3/functions.php:203
+msgid "Posts selected"
+msgstr "Posts selected"
+
+#: ../01292011/NatouraV3/functions.php:203
+msgid "in "
+msgstr "in "
+
+#: ../01292011/NatouraV3/header.php:11
+msgid "travel,latin america,south america,caribbean,holiday,vacation,small group,group holiday,flight,international flights,domestic flights,ecotourism,Venezuela,green tourism,andes,roraima,amazon,Orinoco delta,angel falls,canaima,kavac,paramo,pico boliar,llanos,Caribbean,wildlife safari,los roques,margarita island,lohas"
+msgstr "travel,latin america,south america,caribbean,holiday,vacation,small group,group holiday,flight,international flights,domestic flights,ecotourism,Venezuela,green tourism,andes,roraima,amazon,Orinoco delta,angel falls,canaima,kavac,paramo,pico boliar,llanos,Caribbean,wildlife safari,los roques,margarita island,lohas"
+
+#: ../01292011/NatouraV3/header.php:12
+msgid "Natoura is a tour operator who is specialized in organizing safe and exciting eco & adventure tours throughout the beautiful and diverse country of Venezuela."
+msgstr "Natoura is an inbound tour operator specialized in adventure travel and ecotourism throughout Venezuela since 1991."
+
+#: ../01292011/NatouraV3/header.php:13
+msgid "Natoura :: Specializing in Adventure Travel and Ecotourism throughout Venezuela since 1991."
+msgstr "Natoura :: Specializing in Adventure Travel and Ecotourism throughout Venezuela since 1991."
+
+#: ../01292011/NatouraV3/header.php:37
+msgid "This site cannot be rendered correctly, Internet Explorer is missing updates required to view this site. Click here to update..."
+msgstr "This site cannot be rendered correctly, Internet Explorer is missing updates required to view this site. Click here to update..."
+
+#: ../01292011/NatouraV3/index.php:67
+msgid "<h1>Bienvenidos a <strong>Venezuela</strong> y a <strong>Natoura</strong></h1>"
+msgstr "<h1>Welcome to <strong>Venezuela</strong> and <strong>Natoura</strong></h1>"
+
+#: ../01292011/NatouraV3/index.php:68
+msgid ""
+"<p>&iquest;Desear&iacute;an sentirse parte de uno de los lugares m&oacute;s ex&oacute;ticos y menos tocados de la naturaleza, y estar en uno de los ecosistemas menos perturbados del mundo?\t<br /><br />\n"
+"Natoura le har&oacute; sentirse parte de la naturaleza, teniendo especial cuidado en respetar los delicados recursos de estos majestuosos y geogr&oacute;ficamente diversos medioambientes.\n"
+"<br /><br />\n"
+"<strong>&iexcl;Esto es lo que nosotros le ofrecemos en Natoura!</strong></p>"
+msgstr "<p>Dear Friends,</p><p>Welcome to Venezuela and Natoura! At Natoura we do our best to ensure that you feel at one with the natural environment, and we do this by taking special care of the fragile resources of the different ecosystems we visit. </p>"
+
+#: ../01292011/NatouraV3/index.php:111
+#: ../01292011/NatouraV3/index.php:187
+msgid "Filed under:"
+msgstr "Filed under:"
+
+#: ../01292011/NatouraV3/index.php:111
+#: ../01292011/NatouraV3/index.php:187
+msgid "Tags: "
+msgstr "Tags: "
+
+#: ../01292011/NatouraV3/index.php:111
+#: ../01292011/NatouraV3/index.php:187
+msgid "Edit This"
+msgstr "Edit This"
+
+#: ../01292011/NatouraV3/index.php:126
+msgid "Sorry, no posts matched your criteria."
+msgstr "Sorry, no posts matched your criteria."
+
+#: ../01292011/NatouraV3/index.php:146
+msgid "La geograf&iacute;a de Venezuela permite a NATOURA brindarle una gran variedad de aventuras en plena naturaleza en un solo paquete"
+msgstr "Venezuela's unique geography allows Natoura to bring together a wide variety of nature adventures in one package"
+
+#: ../01292011/NatouraV3/index.php:212
+msgid "LOGO IATA"
+msgstr "LOGO IATA"
+
+#: ../01292011/NatouraV3/index.php:213
+msgid "LOGO LATA"
+msgstr "LOGO LATA"
+
+#: ../01292011/NatouraV3/index.php:214
+msgid "LOGO INTERNATIONAL ECOTOURISM SOCIETY"
+msgstr "LOGO INTERNATIONAL ECOTOURISM SOCIETY"
+
+#: ../01292011/NatouraV3/index.php:215
+msgid "LOGO PLANETA.COM"
+msgstr "LOGO PLANETA.COM"
+
+#: ../01292011/NatouraV3/index.php:216
+msgid "LOGO ADVENTURE TRAVEL"
+msgstr "LOGO ADVENTURE TRAVEL"
+
+#: ../01292011/NatouraV3/index.php:217
+msgid "LOGO AVAVIT"
+msgstr "LOGO AVAVIT"
+
+#: ../01292011/NatouraV3/search.php:28
+msgid "Search Results"
+msgstr "Search Results"
+
+#: ../01292011/NatouraV3/search.php:31
+msgid "&laquo; Older Entries"
+msgstr "Older Entries"
+
+#: ../01292011/NatouraV3/search.php:32
+msgid "Newer Entries &raquo;"
+msgstr "Newer Entries"
+
+#: ../01292011/NatouraV3/search.php:40
+#, php-format
+msgid "Permanent Link to %s"
+msgstr "Permanent Link to "
+
+#: ../01292011/NatouraV3/search.php:42
+msgid "Tags:"
+msgstr "Tags:"
+
+#: ../01292011/NatouraV3/search.php:42
+#, php-format
+msgid "Posted in %s"
+msgstr "Posted in "
+
+#: ../01292011/NatouraV3/search.php:50
+msgid "No posts found. Try a different search?"
+msgstr "No posts found. Try a different search?"
+
+#: ../01292011/NatouraV3/searchform.php:4
+msgid "BUSCAR"
+msgstr "Search"
+
+#: ../01292011/NatouraV3/sidebar.php:72
+msgid "Destinos"
+msgstr "Destinations"
+
+#: ../01292011/NatouraV3/sidebar.php:78
+msgid "Tipos de Tour"
+msgstr "Activities by theme"
+
+#: ../01292011/NatouraV3/sidebar.php:93
+msgid "Consejos para el Viajero"
+msgstr "Tips for travelers"
+
+#: ../01292011/NatouraV3/sidebar.php:132
+msgid "CONTACTENOS"
+msgstr "Contact us"
+
+#: ../01292011/NatouraV3/single.php:71
+#: ../01292011/NatouraV3/single_orig.php:71
+msgid "<li class=\"nogaleria\"><span>No existen fotos disponibles para est&eacute; tour...</span></li>"
+msgstr "<li class=\"nogaleria\"><span>There are no pictures available for this tour...</span></li>"
+
+#: ../01292011/NatouraV3/single.php:96
+#: ../01292011/NatouraV3/single_orig.php:96
+msgid "Dificultad"
+msgstr "Difficulty grade"
+
+#: ../01292011/NatouraV3/single.php:105
+#: ../01292011/NatouraV3/single_orig.php:105
+msgid "Duraci&oacute;n"
+msgstr "Length"
+
+#: ../01292011/NatouraV3/single.php:114
+#: ../01292011/NatouraV3/single_orig.php:114
+msgid "Temporada"
+msgstr "Season"
+
+#: ../01292011/NatouraV3/single.php:126
+#: ../01292011/NatouraV3/single_orig.php:126
+msgid "Dificultad y d&iacute;as"
+msgstr "Difficulty grade and days"
+
+#: ../01292011/NatouraV3/single.php:130
+#: ../01292011/NatouraV3/single_orig.php:130
+msgid "Haga Este Tour"
+msgstr "Booking"
+
+#: ../01292011/NatouraV3/single.php:185
+msgid "Ver"
+msgstr "See the rest..."
+
+#: ../01292011/NatouraV3/single.php:186
+#: ../01292011/NatouraV3/single_orig.php:222
+msgid "Esconder"
+msgstr "Hide"
+
+#: ../01292011/NatouraV3/single.php:207
+msgid "D&iacute;a"
+msgstr "Day "
+
+#: ../01292011/NatouraV3/single.php:229
+#: ../01292011/NatouraV3/single_orig.php:238
+msgid "Mapa"
+msgstr "Map"
+
+#: ../01292011/NatouraV3/single.php:237
+#: ../01292011/NatouraV3/single_orig.php:246
+msgid "Regi&oacute;n"
+msgstr "Region"
+
+#: ../01292011/NatouraV3/single.php:239
+#: ../01292011/NatouraV3/single_orig.php:248
+msgid "No existen una regi&oacute;n disponible"
+msgstr "There is no region available"
+
+#: ../01292011/NatouraV3/single.php:244
+#: ../01292011/NatouraV3/single_orig.php:253
+msgid "Parques Nacionales"
+msgstr "National Parks"
+
+#: ../01292011/NatouraV3/single.php:246
+#: ../01292011/NatouraV3/single_orig.php:255
+msgid "No existen Parques Nacionales disponibles"
+msgstr "There are no National Parks available"
+
+#: ../01292011/NatouraV3/single.php:256
+#: ../01292011/NatouraV3/single_orig.php:265
+msgid "Incluye"
+msgstr "Includes"
+
+#: ../01292011/NatouraV3/single.php:257
+#: ../01292011/NatouraV3/single_orig.php:266
+msgid "El Tour Incluye"
+msgstr "The tour includes"
+
+#: ../01292011/NatouraV3/single.php:267
+#: ../01292011/NatouraV3/single_orig.php:276
+msgid "No Incluye"
+msgstr "Does not include"
+
+#: ../01292011/NatouraV3/single.php:268
+#: ../01292011/NatouraV3/single_orig.php:277
+msgid "El Tour No Incluye"
+msgstr "The tour does not include"
+
+#: ../01292011/NatouraV3/single.php:278
+#: ../01292011/NatouraV3/single_orig.php:287
+msgid "Le recomendamos"
+msgstr "We recommend"
+
+#: ../01292011/NatouraV3/single.php:279
+#: ../01292011/NatouraV3/single_orig.php:288
+msgid "Le recomendamos que traiga consigo"
+msgstr "We recommend that you bring"
+
+#: ../01292011/NatouraV3/single.php:289
+#: ../01292011/NatouraV3/single.php:290
+#: ../01292011/NatouraV3/single_orig.php:298
+#: ../01292011/NatouraV3/single_orig.php:299
+msgid "Como llegar a..."
+msgstr "How to get to..."
+
+#: ../01292011/NatouraV3/single.php:309
+#: ../01292011/NatouraV3/single_orig.php:318
+msgid "dijo"
+msgstr "said"
+
+#: ../01292011/NatouraV3/single.php:315
+#: ../01292011/NatouraV3/single_orig.php:324
+msgid "Sea el primero en comentar sobre su experiencia en este Tour"
+msgstr "Be the first person to comment on their experience of this tour."
+
+#: ../01292011/NatouraV3/single.php:327
+#: ../01292011/NatouraV3/single_orig.php:336
+msgid "Leave a Comment"
+msgstr "Leave a comment"
+
+#: ../01292011/NatouraV3/single_orig.php:218
+msgid "Ver..."
+msgstr "See..."
+
+#: ../01292011/NatouraV3/tmpl_pag_privada.php:109
+msgid " para poder ver est&aacute; p&aacute;gina"
+msgstr "to see this page"
+
+#: ../feb042011/NatouraV3/functions.php:65
+msgid "No categories"
+msgstr "No categories"
+
+#: ../feb212011/NatouraV3/footer.php:25
+msgid ""
+"Call + 58-274-2524216 to Speak to one of our Travel Consultants. <br />\n"
+"\t\t\t\t\t\t\tOr Within the US at 303-800-4639 Monday-Friday 8:30AM-6:30 PM Eastern Time"
+msgstr ""
+"Call + 58 274 2524216 to speak with one of our Travel Consultants. <br />\n"
+"\t\t\t\t\t\t\tOr Within the US at 303-800-4639 Monday-Friday 8:30AM-6:00 PM Eastern Time"
+
+#: ../feb212011/NatouraV3/footer.php:34
+msgid ""
+"Unsere Telefonnummer in Deutschland: 05906-30 33 64<br />\n"
+"\t\t\t\t\t\t\tUnsere Brozeiten: 15:00 Uhr - 0:30 Uhr (deutsche Sommerzeit) <br />\n"
+"\t\t\t\t\t\t\t14:00 Uhr  23:30 Uhr (deutsche Winterzeit) - 8:30 Uhr  18:00 Uhr (venezolanische Zeit)"
+msgstr ""
+"Unsere Telefonnummer in Deutschland: 05906 30 33 64<br />\n"
+"\t\t\t\t\t\t\tUnsere Bürozeiten: 15:00 Uhr - 0:30 Uhr (deutsche Sommerzeit) <br />\n"
+"\t\t\t\t\t\t\t14:00 Uhr - 23:30 Uhr (deutsche Winterzeit) oder 8:30 Uhr - 18:00 Uhr (venezolanische Zeit)"
+
+#: ../feb212011/NatouraV3/footer.php:41
+msgid "Appelez depuis France Tlphone : 0970 449 206"
+msgstr "Appelez en France : 0970 449 206"
+
+#: ../feb212011/NatouraV3/footer.php:46
+msgid "Telfono de atencin al cliente: +58-274-2524216"
+msgstr "Teléfono de atención al cliente: +58 274 2524216"
+
+#: ../feb212011/NatouraV3/header.php:69
+msgid "Contctenos"
+msgstr "Contact us"
+
+#: ../feb212011/NatouraV3/header.php:75
+msgid "Llmenos"
+msgstr "Call us"
+
+#: ../feb212011/NatouraV3/header.php:81
+msgid "Reserve su vuelo a <br /><span>Venezuela</span>"
+msgstr "Book your flight to <br /><span>Venezuela</span>"
+
+#: ../feb212011/NatouraV3/searchform.php:3
+msgid "&iquest;Qu&eacute; desea buscar?..."
+msgstr "¿Would you like to search...?"
+
+#: ../feb262011/NatouraV3/header.php:69
+msgid "Cont&aacute;ctenos"
+msgstr "Contact us"
+
+#: ../feb262011/NatouraV3/header.php:75
+msgid "Ll&aacute;menos"
+msgstr "Call us"
+
+#: ../feb262011/NatouraV3/single.php:197
+msgid "Itinerario"
+msgstr "Itinerary"
+
+#: ../mar022011/NatouraV3/sidebar-tours.php:26
+msgid "No existe un mapa disponible para el tour"
+msgstr "There is no map available now"
+
+#: ../mar022011/NatouraV3/single.php:253
+msgid "Comentario"
+msgstr "Comment"
+
+#: ../mar032011/single.php:22
+msgid "Ver las fotos de este tour"
+msgstr "See photos of this tour"
+
+#~ msgid "bookmark"
+#~ msgstr "bookmark"
+
+#~ msgid "Edit"
+#~ msgstr "Edit"
+
+#~ msgid "No Comments"
+#~ msgstr "No Comments"
+
+#~ msgid "1 Comment"
+#~ msgstr "1 Comment"
+
+#~ msgid "% Comments"
+#~ msgstr "% Comments"
+
+#~ msgid "<p><span class=\"dia\">D&iacute;a '.$i.': </span></p>"
+#~ msgstr "<p><span class=\"dia\">Day '.$i.': </span></p>"

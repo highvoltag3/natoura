@@ -1,0 +1,61 @@
+/*HOJA CSSS PARA CORREGUIR LOS ERRORES EN IE*/
+#content_front_only_inner_left {
+	width: 37%;
+}
+#content_front_only_inner_right { 
+	width: 35%;
+	margin-bottom: 15px;
+}
+
+#fix, #sidebar { width: 210px; }
+
+.sub-menu { margin-left: 0; padding-left: 0; }
+
+#content { float: right; width: 773px;} /*sube el area de contenido*/
+
+#footer li { float: left; }
+
+/*
+#sidebar {
+	margin-top: 15px;
+}
+
+#sidebar_content {
+	margin-left: 0px;
+	width: 190px !important;
+}
+
+.nombre_categoria {
+	list-style-type: none !important;
+}
+
+#sidebar_content ul { margin-left: 5px; } 
+
+#flags { float: right !important; }
+*/
+
+/*Internas*/
+
+/*
+#content_single {
+	padding-left: 10px;
+	width: 720px;
+}
+
+#content #breadcrumb {
+	width: 725px;
+	padding-left: 10px;
+}
+
+#content h1 {
+	width: 725px;
+	padding-left: 10px;
+}
+
+#mapa {
+	margin-right: 14px;
+}
+#extra_info {
+	margin-right: 14px;
+}
+*/
