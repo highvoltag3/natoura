@@ -31,31 +31,31 @@ get_header(); ?>
                     
                                 <div class="entry">
                                 	<table width="210" cellpadding="10" align="right">
-										<tbody>
-											<tr bgcolor="#ffffcc">
-											<td bgcolor="#dde6ea">
-											<h1>Tipps für die Reisende:</h1>
-											<h2><strong>Vor der Reise</strong></h2>
-											<ul>
-												<li><a href="http://natoura.com/new/deutsch/tipps-fur-die-reisende/geldangelegenheiten-und-wahrungsumstellung?lang=gr_de">Geldangelegenheiten und Währungsumstellung</a></li>
-												<li><a href="http://natoura.com/new/deutsch/tipps-fur-die-reisende/visa?lang=gr_de">Visa</a></li><li><a href="http://natoura.com/new/deutsch/tipps-fur-die-reisende/flughafenausreisesteuer?lang=gr_de">Flughafenausreisesteuer</a></li>
-												<li><a href="http://natoura.com/new/deutsch/tipps-fur-die-reisende/gesundheit?lang=gr_de">Gesundheit</a></li>
-												<li><a href="http://natoura.com/new/deutsch/tipps-fur-die-reisende/nutzliche-information-vor-ihrer-ankunft-in-caracas?lang=gr_de">Nützliche Information vor Ihrer Ankunft in Caracas</a></li>
-												<li><a href="http://natoura.com/new/deutsch/tipps-fur-die-reisende/flugbestatigung?lang=gr_de">Flugbestätigung</a></li>
-												<li><a href="http://natoura.com/new/deutsch/tipps-fur-die-reisende/klima-und-kleidung?lang=gr_de">Klima und Kleidung</a></li>
-											</ul>
-											<ul></ul>
-											<h2><strong>In Venezuela</strong></h2>
-											<ul>
-												<li><a href="http://natoura.com/new/deutsch/tipps-fur-die-reisende/kultur-und-religion?lang=gr_de">Kultur und Religion</a></li>
-												<li><a href="http://natoura.com/new/deutsch/tipps-fur-die-reisende/umwelt?lang=gr_de">Umwelt</a></li>
-												<li><a href="http://natoura.com/new/deutsch/tipps-fur-die-reisende/sicherheit?lang=gr_de">Sicherheit  </a></li><li><a href="http://natoura.com/new/deutsch/tipps-fur-die-reisende/telefon-und-email?lang=gr_de">Telefon und Email </a></li>
-												<li><a href="http://natoura.com/new/deutsch/tipps-fur-die-reisende/essen-trinken?lang=gr_de">Essen &amp; Trinken</a></li>											
-											</ul>
-											</td>
-											</tr>
-										</tbody>
-									</table>
+                										<tbody>
+                                      <tr bgcolor="#ffffcc">
+                                      <td bgcolor="#dde6ea">
+                                      <h1>Tipps f&Yuml;r die Reisende:</h1>
+                                      <h2><strong>Vor der Reise</strong></h2>
+                                      <ul>
+                                        <li><a href="http://natoura.com/new/deutsch/tipps-fur-die-reisende/geldangelegenheiten-und-wahrungsumstellung?lang=gr_de">Geldangelegenheiten und W&auml;hrungsumstellung</a></li>
+                                        <li><a href="http://natoura.com/new/deutsch/tipps-fur-die-reisende/visa?lang=gr_de">Visa</a></li><li><a href="http://natoura.com/new/deutsch/tipps-fur-die-reisende/flughafenausreisesteuer?lang=gr_de">Flughafenausreisesteuer</a></li>
+                                        <li><a href="http://natoura.com/new/deutsch/tipps-fur-die-reisende/gesundheit?lang=gr_de">Gesundheit</a></li>
+                                        <li><a href="http://natoura.com/new/deutsch/tipps-fur-die-reisende/nutzliche-information-vor-ihrer-ankunft-in-caracas?lang=gr_de">N&uuml;tzliche Information vor Ihrer Ankunft in Caracas</a></li>
+                                        <li><a href="http://natoura.com/new/deutsch/tipps-fur-die-reisende/flugbestatigung?lang=gr_de">Flugbest&auml;tigung</a></li>
+                                        <li><a href="http://natoura.com/new/deutsch/tipps-fur-die-reisende/klima-und-kleidung?lang=gr_de">Klima und Kleidung</a></li>
+                                      </ul>
+                                      <ul></ul>
+                                      <h2><strong>In Venezuela</strong></h2>
+                                      <ul>
+                                        <li><a href="http://natoura.com/new/deutsch/tipps-fur-die-reisende/kultur-und-religion?lang=gr_de">Kultur und Religion</a></li>
+                                        <li><a href="http://natoura.com/new/deutsch/tipps-fur-die-reisende/umwelt?lang=gr_de">Umwelt</a></li>
+                                        <li><a href="http://natoura.com/new/deutsch/tipps-fur-die-reisende/sicherheit?lang=gr_de">Sicherheit  </a></li><li><a href="http://natoura.com/new/deutsch/tipps-fur-die-reisende/telefon-und-email?lang=gr_de">Telefon und Email </a></li>
+                                        <li><a href="http://natoura.com/new/deutsch/tipps-fur-die-reisende/essen-trinken?lang=gr_de">Essen &amp; Trinken</a></li>                     
+                                      </ul>
+                                      </td>
+                                      </tr>
+                                    </tbody>
+                                  </table>
                                     <?php the_content('<p class="serif">'.__('Read the rest of this entry &raquo;','NatouraV3').'</p>'); ?>
                     
                                     <?php wp_link_pages(array('before' => '<p><strong>'.__('Pages','NatouraV3').':</strong> ', 'after' => '</p>', 'next_or_number' => 'number')); ?>
