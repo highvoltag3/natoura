@@ -56,7 +56,8 @@
 								case "fr_fr";
 									echo '<tr valign="middle">
 										    <td><img src="' . get_bloginfo('template_directory') . '/images/flags/fr_fr.png" alt="fr_fr" width="" height="" /></td>
-										    <td><p>Appelez en France: 0970 449 206.<br />
+										    <td>
+										    	<p><!--Appelez en France: 0970 449 206.<br />-->
 													Notre horaire de travail: 15:00 Uhr - 00:30 Uhr (horaire d&#8217;&eacute;t&eacute; europeen) / 14:00 Uhr - 23:30 Uhr (horaire d`hiver europeen) ou 8:30 Uhr - 18:00 Uhr (heure locale au Venezuela)
 										    	</p>
 										    </td>
